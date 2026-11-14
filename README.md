@@ -1,5 +1,7 @@
 # Hossam Amin Abdelhamed — Full-Stack Architect Portfolio
 
+🌐 **Live Production Portfolio:** [https://hossam-amin-portfolio.vercel.app](https://hossam-amin-portfolio.vercel.app)
+
 Modern, high-converting developer portfolio engineered with **Next.js 15 (App Router)**, **React 19**, **TypeScript**, **Tailwind CSS v4**, and **Framer Motion**.
 
 ## Key Features
